@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#classes file 
+#domain class file 
 
 class MathFunction: 
         
