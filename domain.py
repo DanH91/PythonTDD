@@ -13,4 +13,3 @@ class MathFunction:
     def execute(self, v):
         return self.fct(v);
 
-#raw_input()
